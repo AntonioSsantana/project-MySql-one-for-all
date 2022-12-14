@@ -5,4 +5,4 @@ SELECT
     SUM(plans.valor) AS faturamento_total
 FROM SpotifyClone.planos AS plans
 INNER JOIN SpotifyClone.usuarios AS users
-ON plans.id = users.plano_id
+ON plans.id = users.plano_id;
