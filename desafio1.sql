@@ -64,14 +64,14 @@ INSERT INTO SpotifyClone.usuarios (usuario, idade, plano_id, data_assinatura)
 VALUES
   ('Barbara Liskov', 82, 1, '2019-10-20'),
   ('Robert Cecil Martin', 58, 1, '2017-01-06'),
-  ('Ada Lovelace', 58, 1, '2017-01-06'),
-  ('Martin Fowler', 58, 1, '2017-01-06'),
-  ('Sandi Metz', 58, 1, '2017-01-06'),
-  ('Paulo Freire', 58, 1, '2017-01-06'),
-  ('Bell Hooks', 58, 1, '2017-01-06'),
-  ('Christopher Alexander', 58, 1, '2017-01-06'),
-  ('Judith Butler', 58, 1, '2017-01-06'),
-  ('Jorge Amado', 58, 1, '2017-01-06');
+  ('Ada Lovelace', 58, 4, '2017-01-06'),
+  ('Martin Fowler', 58, 4, '2017-01-06'),
+  ('Sandi Metz', 58, 4, '2017-01-06'),
+  ('Paulo Freire', 58, 2, '2017-01-06'),
+  ('Bell Hooks', 58, 2, '2017-01-06'),
+  ('Christopher Alexander', 58, 3, '2017-01-06'),
+  ('Judith Butler', 58, 3, '2017-01-06'),
+  ('Jorge Amado', 58, 3, '2017-01-06');
 
 INSERT INTO SpotifyClone.artistas (artista)
 VALUES
